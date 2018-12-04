@@ -1,0 +1,25 @@
+{
+  "name": "Rand Capital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engines": {
+    "node": "10.13.0"
+  },
+  "scripts": {
+    "start": "node server app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "2.6.1",
+    "express": "4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.7"
+  },
+  "author": "Hesham-Abdalla",
+"license": "MIT"
+}
